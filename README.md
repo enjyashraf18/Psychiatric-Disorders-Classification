@@ -6,12 +6,12 @@ We compare Random Forest and LightGBM ensemble classifiers on a large, labeled d
 
 Key Features:
 
-EEG-based biomarkers for multi-class psychiatric classification
+- EEG-based biomarkers for multi-class psychiatric classification
 
-Feature extraction from PSD and FC matrices
+- Feature extraction from PSD and FC matrices
 
-Ensemble model comparison: Random Forest vs. LightGBM
+- Ensemble model comparison: Random Forest vs. LightGBM
 
-Evaluation aligned with the RDoC neurobiological framework
+- Evaluation aligned with the RDoC neurobiological framework
 
 Goal: Develop objective, neurobiologically-informed tools for mental health diagnostics using EEG and ML.

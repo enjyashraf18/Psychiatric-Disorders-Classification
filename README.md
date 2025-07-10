@@ -3,7 +3,7 @@
 EEG-Based Machine Learning for Psychiatric Disorder Classification  
 Accurate psychiatric diagnosis is often hindered by overlapping symptoms and a lack of objective biomarkers. This project leverages resting-state EEG features—including power spectral density and functional connectivity—combined with machine learning to classify six major psychiatric conditions and healthy controls.
 
-![OPTIMAL FEATURES COMBINATION BY DISORDER](./eeg_pipeline.png)
+![OPTIMAL FEATURES COMBINATION BY DISORDER](./FEATURES.png)
 
 We compare Random Forest and LightGBM ensemble classifiers on a large, labeled dataset. The Random Forest model achieved 91.86% accuracy, significantly outperforming LightGBM (74.80%), and showed strong performance across precision, recall, and F1-score.
 
